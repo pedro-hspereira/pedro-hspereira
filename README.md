@@ -1,13 +1,13 @@
-# 👋 Hello there! Welcome to my profile. <img width="2000" height="2000" alt="octocat-1753835914565" src="https://github.com/user-attachments/assets/72bf3c5d-7764-4d06-abc6-c4255b5b397d" />"
+# 👋 Hello there! Welcome to my profile. <img width="20" height="20" alt="octocat-1753835914565" src="https://github.com/user-attachments/assets/72bf3c5d-7764-4d06-abc6-c4255b5b397d" />"
 ## My name is Pedro Henrique. I'm brazilian (🇧🇷) and I'm currently in High School in Brazil. I've been studying programming (HTML, CSS, JavaScript) on my own.
 ### That's just the begin of my journey 🚀
 
 
 ## Tools and Languages *(Current learning)*
-- <i class="devicon-html5-plain colored"></i> 
-- <i class="devicon-css3-plain colored"></i>
-- <i class="devicon-javascript-plain colored"></i>
-- <i class="devicon-git-plain colored"></i>
+<i class="devicon-html5-plain colored"></i> 
+<i class="devicon-css3-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-git-plain colored"></i>
               
           
 ## Contacts
