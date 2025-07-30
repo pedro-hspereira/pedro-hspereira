@@ -2,7 +2,8 @@
 ## My name is Pedro Henrique. I'm brazilian (🇧🇷) and I'm currently in High School in Brazil. I've been studying programming (HTML, CSS, JavaScript) on my own.
 ### That's just the begin of my journey 🚀
 
-<head><script src="https://kit.fontawesome.com/cc649fc2c3.js" crossorigin="anonymous"></script></head>
+<head><link src="https://kit.fontawesome.com/cc649fc2c3.js" crossorigin="anonymous"></head>
+
 ## Tools and Languages *(Current learning)*
 <i class="devicon-html5-plain colored"></i> 
 <i class="devicon-css3-plain colored"></i>
