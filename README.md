@@ -5,10 +5,10 @@
 <head><link src="https://kit.fontawesome.com/cc649fc2c3.js" crossorigin="anonymous"></head>
 
 ## Tools and Languages *(Current learning)*
-<i class="devicon-html5-plain colored"></i> 
-<i class="devicon-css3-plain colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-git-plain colored"></i>
+<i class="fa-brands fa-html5"></i>
+<i class="fa-brands fa-css3-alt"></i>
+<i class="fa-brands fa-js"></i>
+<i class="fa-brands fa-git-alt"></i>
               
           
 ## Contacts
