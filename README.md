@@ -1,5 +1,5 @@
 # My name is Pedro Henrique. I'm brazilian (🇧🇷) and I'm currently in High School in Brazil. I've been studying programming (HTML, CSS, JavaScript) on my own.
-## That's just the begin of my journey 🚀
+That's just the begin of my journey 🚀
 
 
 ## Tools and Languages *(Current learning)*
